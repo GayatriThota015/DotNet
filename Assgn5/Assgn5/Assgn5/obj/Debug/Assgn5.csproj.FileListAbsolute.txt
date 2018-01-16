@@ -1,0 +1,10 @@
+C:\Users\Rahul\source\repos\Assgn5\Assgn5\bin\Debug\Assgn5.exe.config
+C:\Users\Rahul\source\repos\Assgn5\Assgn5\bin\Debug\Assgn5.exe
+C:\Users\Rahul\source\repos\Assgn5\Assgn5\bin\Debug\Assgn5.pdb
+C:\Users\Rahul\source\repos\Assgn5\Assgn5\obj\Debug\Assgn5.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\source\repos\Assgn5\Assgn5\obj\Debug\Assgn5.Form1.resources
+C:\Users\Rahul\source\repos\Assgn5\Assgn5\obj\Debug\Assgn5.Properties.Resources.resources
+C:\Users\Rahul\source\repos\Assgn5\Assgn5\obj\Debug\Assgn5.csproj.GenerateResource.Cache
+C:\Users\Rahul\source\repos\Assgn5\Assgn5\obj\Debug\Assgn5.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\source\repos\Assgn5\Assgn5\obj\Debug\Assgn5.exe
+C:\Users\Rahul\source\repos\Assgn5\Assgn5\obj\Debug\Assgn5.pdb
