@@ -1,0 +1,11 @@
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\bin\Debug\ExtraCreditAss.exe.config
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\bin\Debug\ExtraCreditAss.exe
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\bin\Debug\ExtraCreditAss.pdb
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\obj\Debug\ExtraCreditAss.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\obj\Debug\ExtraCreditAss.Login.resources
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\obj\Debug\ExtraCreditAss.Properties.Resources.resources
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\obj\Debug\ExtraCreditAss.RegistrationForm.resources
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\obj\Debug\ExtraCreditAss.csproj.GenerateResource.Cache
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\obj\Debug\ExtraCreditAss.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\obj\Debug\ExtraCreditAss.exe
+C:\Users\Rahul\source\repos\ExtraCreditAss\ExtraCreditAss\obj\Debug\ExtraCreditAss.pdb
