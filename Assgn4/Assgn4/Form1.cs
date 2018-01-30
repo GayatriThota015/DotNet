@@ -2,9 +2,8 @@
 
    CSCI 680-00V3       Assignment 4      Fall 2017                                             
                                                           
-   Programmers: RAHUL MARUPAKA(Z1802041)
-                GAYATRI THOTA(Z1807846)
-                SNEHAVI ATLURI(Z1803731)
+   Programmers: GAYATRI THOTA(Z1807846)
+               
 
    Date Due:   11/06/2017                                                           
 
